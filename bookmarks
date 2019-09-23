@@ -1,0 +1,66 @@
+{
+   "checksum": "3e32b51a5e430a40ff4a9a4a9e58f860",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "id": "6",
+            "is_best": 0,
+            "name": "谷歌",
+            "type": "url",
+            "url": "http://www.google.com.hk/search?client=aff-cs-360se-channel&channel=bookmark&q="
+         }, {
+            "date_added": "0",
+            "id": "7",
+            "is_best": 0,
+            "name": "网址大全",
+            "type": "url",
+            "url": "https://hao.360.cn/?src=bm"
+         }, {
+            "date_added": "0",
+            "id": "8",
+            "is_best": 0,
+            "name": "360搜索",
+            "type": "url",
+            "url": "https://www.so.com/?src=se_favorite"
+         }, {
+            "date_added": "0",
+            "id": "9",
+            "is_best": 0,
+            "name": "百度一下",
+            "type": "url",
+            "url": "https://www.baidu.com/?tn=62095104_23_oem_dg"
+         }, {
+            "date_added": "0",
+            "id": "10",
+            "is_best": 0,
+            "name": "游戏中心",
+            "type": "url",
+            "url": "http://wan.360.cn/?src=se-scj-top01&channel=515460173"
+         } ],
+         "date_added": "13118141548647143",
+         "date_modified": "0",
+         "id": "1",
+         "name": "收藏栏",
+         "showfolderid": 0,
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13118141548647149",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他收藏",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13118141548647150",
+         "date_modified": "0",
+         "id": "3",
+         "name": "手机收藏夹",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
